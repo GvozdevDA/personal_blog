@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gvz.Blog.Web", "Gvz.Blog.Web\Gvz.Blog.Web.csproj", "{D991B3C7-63EA-4CE1-B6AA-E79C3F405057}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D991B3C7-63EA-4CE1-B6AA-E79C3F405057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D991B3C7-63EA-4CE1-B6AA-E79C3F405057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D991B3C7-63EA-4CE1-B6AA-E79C3F405057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D991B3C7-63EA-4CE1-B6AA-E79C3F405057}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
