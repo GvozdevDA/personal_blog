@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gvz.Blog.Web", "Gvz.Blog.Web\Gvz.Blog.Web.csproj", "{C8F11965-5055-4A86-8E43-878AFAB20F97}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{604E7431-0655-421E-9A80-6C557A69B487}"
+	ProjectSection(SolutionItems) = preProject
+		compose.yaml = compose.yaml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8F11965-5055-4A86-8E43-878AFAB20F97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8F11965-5055-4A86-8E43-878AFAB20F97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8F11965-5055-4A86-8E43-878AFAB20F97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8F11965-5055-4A86-8E43-878AFAB20F97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

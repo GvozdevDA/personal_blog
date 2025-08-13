@@ -1,0 +1,7 @@
+﻿services:
+  gvz.blog.web:
+    image: gvz.blog.web
+    build:
+      context: .
+      dockerfile: Gvz.Blog.Web/Dockerfile
+
